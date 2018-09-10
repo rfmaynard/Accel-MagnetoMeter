@@ -1,6 +1,3 @@
-LEDmatrix
+OLEDproject
 =========
-
- 
-
-test
+Hello world
