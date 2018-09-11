@@ -1,9 +1,9 @@
-OLEDproject
+Accel/MagnetoMeter project
 ===========
 
  
 
-Projects Website: https://github.com/rfmaynard/OLEDproject
+Projects Website: https://github.com/rfmaynard/Accel-MagnetoMeter
 
  
 
@@ -12,7 +12,7 @@ Table of Contents
 
 1.  Hello World
 
-    1.   
+
 
      
 
