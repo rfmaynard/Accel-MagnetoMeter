@@ -1,5 +1,5 @@
-Accel/MagnetoMeter project
-===========
+easeOmeter project
+==================
 
  
 
@@ -12,10 +12,9 @@ Table of Contents
 
 1.  Hello World
 
-
-
      
 
 ### Hello World
 
- 
+Hello readers! This will be the space I will be using to update my easeOmeter
+project!
