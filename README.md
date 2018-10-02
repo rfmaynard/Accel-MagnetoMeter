@@ -18,3 +18,11 @@ Table of Contents
 
 Hello readers! This will be the space I will be using to update my easeOmeter
 project!
+
+ 
+
+### Week 5 Update Proof of Purchase:
+
+![](../../../Desktop/Untitled.png)
+
+![](../../../Desktop/lsm303.png)
