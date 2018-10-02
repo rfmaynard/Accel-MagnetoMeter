@@ -23,6 +23,6 @@ project!
 
 ### Week 5 Update Proof of Purchase:
 
-![](../../../Desktop/Untitled.png)
+![](https://i.imgur.com/mXrPxaY.png)
 
-![](../../../Desktop/lsm303.png)
+![](https://i.imgur.com/jeV3cju.png)
