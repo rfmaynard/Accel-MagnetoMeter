@@ -12,6 +12,8 @@ October 2nd, 2018
 
 ![](https://i.imgur.com/jeV3cju.png)
 
+![](https://i.imgur.com/x5FFRfP.png)
+
 September 25th, 2018 
 ---------------------
 
