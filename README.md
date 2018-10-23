@@ -12,10 +12,7 @@ Table of Contents
 -----------------
 
 1.  Hello World
-
-2.  Goal
-
-     
+    
 
 ### Hello World
 
