@@ -8,7 +8,11 @@ October 23rd, 2018
 
 ### Build Update:
 
-![](https://i.imgur.com/otcNDeM.jpg)
+![](https://i.imgur.com/Uye91vq.png)
+
+Successfully Detects!
+
+![](https://i.imgur.com/ADmRp7r.png)
 
  
 
