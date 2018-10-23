@@ -3,7 +3,7 @@ easeOmeter project
 
  
 
-Projects Website: https://github.com/rfmaynard/Accel-MagnetoMeter
+Projects Website: https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/INDEX.md
 
  
 
