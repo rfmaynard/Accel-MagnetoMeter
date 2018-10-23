@@ -14,6 +14,21 @@ Successfully Detects!
 
 ![](https://i.imgur.com/ADmRp7r.png)
 
+### Progress Report:
+
+While on track for the most part, I fell behind in week 7 slightly as most
+students had their sensors soldered. I made up the gap by mock bread-boarding my
+sensor and Pi over the weekend leading toward week 8. One of the problems I
+encountered was finding the correct GPIO labeling for this sensor as it is not
+one of the more popular devices. Another neat solution to connecting to my Pi is
+via a direct ethernet cable to my laptop along with VNC. This provides a simple
+and quick connection.
+
+As for any other extra amenities required, I needed an ethernet cable to connect
+the Pi directly to my laptop, which happened to be lying around. Fritzing is
+almost completed for the PCB etching in week 9. In all, this project is on track
+and luckily, no major road bumps have occurred as of yet.
+
  
 
 October 2nd, 2018
