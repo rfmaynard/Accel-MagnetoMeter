@@ -3,8 +3,17 @@ easeOmeter project
 
  
 
-October 2nd, 2018 
+October 23rd, 2018
 ------------------
+
+### Build Update:
+
+![](https://i.imgur.com/otcNDeM.jpg)
+
+ 
+
+October 2nd, 2018
+-----------------
 
 ### Proof of Purchase:
 
@@ -14,24 +23,24 @@ October 2nd, 2018
 
 ![](https://i.imgur.com/x5FFRfP.png)
 
-September 25th, 2018 
----------------------
+September 25th, 2018
+--------------------
 
 Budget Posted. Can be found
 [here.](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/documentation/EaseOMeter_Budget.pdf)
 
  
 
-September 18th, 2018 
----------------------
+September 18th, 2018
+--------------------
 
 Schedule Posted. Can be found
 [here.](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/documentation/EaseOMeter_Schedule.PNG)
 
  
 
-September 11th, 2018 
----------------------
+September 11th, 2018
+--------------------
 
 Proposal Posted. Can be found
 [here.](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/documentation/RyanMaynard_EaseOMeter_Proposal.pdf)
