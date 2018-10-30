@@ -24,6 +24,8 @@ bottom of the PCB.
 
 Financial status is still OK as of right now and I am currently refining and
 double checking the PCB part on fritzing before send off to the lab for etching.
+Ground needs to be sent around the pins still as it would conflict with the GPIO
+pins in the Raspberry Pi.
 
  
 
