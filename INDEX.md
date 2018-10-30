@@ -3,6 +3,30 @@ easeOmeter project
 
  
 
+October 30th, 2018
+------------------
+
+### Fritzing and PCB Update:
+
+![](https://i.imgur.com/gYxyjnZ.jpg)
+
+### Progress Report:
+
+The schedule of the EaseOmeter is proceeding as expected, and as stated before,
+I am fortunate to be not hitting any major road blocks as of yet. The fritzing
+was completed on time with the help of my professor’s clarification on some
+designing techniques. It was suggested to prevent any lines from crossing as
+that would interfere with the PCB etching, as well as instructing us on the
+proper use of via’s and differentiating the differences between the top and
+bottom of the PCB.
+
+ 
+
+Financial status is still OK as of right now and I am currently refining and
+double checking the PCB part on fritzing before send off to the lab for etching.
+
+ 
+
 October 23rd, 2018
 ------------------
 
