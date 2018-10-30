@@ -18,9 +18,7 @@ was completed on time with the help of my professor’s clarification on some
 designing techniques. It was suggested to prevent any lines from crossing as
 that would interfere with the PCB etching, as well as instructing us on the
 proper use of via’s and differentiating the differences between the top and
-bottom of the PCB.
-
- 
+bottom of the PCB. I should be able to hit the Week 10 milestone next week.
 
 Financial status is still OK as of right now and I am currently refining and
 double checking the PCB part on fritzing before send off to the lab for etching.
