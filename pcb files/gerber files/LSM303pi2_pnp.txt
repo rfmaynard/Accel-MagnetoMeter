@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=LSM303pi2
+*Date=19:48:29
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;28.1472;-12.9985;-90;Top;TXT4
+2;;;5.46222;-12.1536;0;Bottom;Via2
+3;;;15.7294;-21.2958;-90;Top;TXT1
+4;;;28.3222;-27.3936;0;Bottom;Via4
+5;;;8.35613;-16.0891;-90;Top;TXT2
+6;;;10.5422;-22.3136;0;Bottom;Via3
+7;;THT;19.4322;-17.2336;90;Bottom;J2
+8;;;23.0672;-12.8574;-90;Top;TXT3
+9;;;42.1243;-11.403;0;Bottom;Raspberry Pi 1
+10;;;23.2422;-24.8536;0;Bottom;Via1

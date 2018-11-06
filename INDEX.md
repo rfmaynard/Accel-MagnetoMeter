@@ -3,6 +3,17 @@ easeOmeter project
 
  
 
+November 6th, 2018
+------------------
+
+### PCB soldering milestone update:
+
+ 
+
+ 
+
+ 
+
 October 30th, 2018
 ------------------
 
