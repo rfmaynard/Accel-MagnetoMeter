@@ -10,7 +10,25 @@ November 6th, 2018
 
 ![](https://i.imgur.com/Ek2YiUi.jpg)
 
+Unsuccessfully detects, and I am aware of the problem, and the solution.
+
+![](https://i.imgur.com/yxMU3zz.png)
+
 ### Progress Report:
+
+The current schedule as of today is slightly behind. I unfortunately had a set
+back where I got ahead of myself and failed to double check my sensor and
+corresponding fritzing file. As a result, there was an error where my SDA was
+located in the wrong spot along where the 8-pin header sits. I will need to get
+my PCB remade for my mistake. This will set me back a few days but I will be
+able to make up time by coming to school on my day off and working in the
+prototype lab. Below is an image of the fixed error, and appropriate files are
+located
+[here](https://github.com/rfmaynard/Accel-MagnetoMeter/tree/master/pcb%20files).
+
+![](https://i.imgur.com/acJG0JM.jpg)
+
+ 
 
  
 
