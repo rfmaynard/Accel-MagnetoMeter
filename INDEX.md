@@ -8,9 +8,9 @@ November 6th, 2018
 
 ### PCB soldering milestone update:
 
- 
+![](https://i.imgur.com/Ek2YiUi.jpg)
 
- 
+### Progress Report:
 
  
 
