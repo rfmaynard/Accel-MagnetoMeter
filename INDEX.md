@@ -28,7 +28,14 @@ located
 
 ![](https://i.imgur.com/acJG0JM.jpg)
 
- 
+I had everything soldered in the lab, and upon realizing my error, needed to
+de-solder (a very handy tool by the way). Unfortunately, I had not documented
+any pictures of the completed soldering. On the bright side, I was able to
+procure an 8 and full GPIO headers from the prototype lab without any extra
+costs. Financial status is still on track and has not changed. Overall, a minor
+set back, but having already had the experience to solder it all, test, and
+de-solder. Performing it the second time around should be a little faster and
+feel more comfortable. Will be on track for next week (Week 11).
 
  
 
