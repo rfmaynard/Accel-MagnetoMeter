@@ -3,6 +3,33 @@ easeOmeter project
 
  
 
+November 13th, 2018
+-------------------
+
+### PCB Update and hardware demonstration:
+
+![](https://i.imgur.com/ebCmzvj.jpg)
+
+Successful, and corrected PCB soldered, and tested! Correctly detects the proper
+address.
+
+![](https://i.imgur.com/areagqn.png)
+
+Moving on to the python libraries to being reading values, I noticed that trying
+to connect to the school’s Wi-Fi network was greyed out in the GUI. Upon further
+research I discovered that connecting to enterprise networks is disabled by
+default. A work around to this was to enter information manually into the
+/etc/wpa_supplicant/wpa_supplicant.conf file as shown below.
+
+![](https://i.imgur.com/tvKcRtr.png)
+
+After installing python and the libraries for the sensor, the example code to
+get readings works!
+
+![](https://i.imgur.com/p7cy2ry.png)
+
+ 
+
 November 6th, 2018
 ------------------
 
