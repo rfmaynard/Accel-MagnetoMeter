@@ -3,6 +3,15 @@ easeOmeter project
 
  
 
+November 20th, 2018
+-------------------
+
+### Enclosure update:
+
+ 
+
+ 
+
 November 13th, 2018
 -------------------
 
