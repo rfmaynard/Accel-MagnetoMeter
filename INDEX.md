@@ -10,6 +10,16 @@ November 20th, 2018
 
  
 
+Working with CorelDraw x6, we were provided a default file to work with. My
+current edited version is just tall enough for the user to reach down and remove
+the sensor, while still providing protection during transport. The file can be
+found here, and a preview for it can be found below.
+
+![](https://i.imgur.com/vujfWZx.png)
+
+As I write this, the prototype lab is in the process of cutting the acrylic
+case. I will update this post as further progress is made.
+
  
 
 November 13th, 2018
