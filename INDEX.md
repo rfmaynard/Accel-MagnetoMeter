@@ -22,6 +22,17 @@ case. I will update this post as further progress is made.
 
  
 
+//TODO updates here
+
+ 
+
+Currently, the project remains on track and I double checked the sensor and Pi’s
+functionality and everything is in working order. Financial status is unchanged
+as I was able to acquire a custom case through the school thanks to the
+prototype lab.
+
+ 
+
 November 13th, 2018
 -------------------
 
