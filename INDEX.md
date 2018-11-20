@@ -8,8 +8,6 @@ November 20th, 2018
 
 ### Enclosure update:
 
- 
-
 Working with CorelDraw x6, we were provided a default file to work with. My
 current edited version is just tall enough for the user to reach down and remove
 the sensor, while still providing protection during transport. The file can be
