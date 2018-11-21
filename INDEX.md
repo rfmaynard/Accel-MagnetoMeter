@@ -18,13 +18,15 @@ and a preview for it can be found below.
 ![](https://i.imgur.com/vujfWZx.png)
 
 As I write this, the prototype lab is in the process of cutting the acrylic
-case. I will update this post as further progress is made.
+case. Below is the result of the case. However, it is apparent that the case is
+still slightly flawed. I will need to make the top square for removing and
+adding sensors slightly larger, and the PCB is just marginally too large. In
+addition, I will need to procure standoffs for the Pi so it can stay elevated
+inside the case. I was thinking of making those out of the acrylic from the
+cuts. I will post an edited and updated case file as I continue to make
+measurements and work on it.
 
- 
-
-//TODO updates here
-
- 
+![](https://i.imgur.com/2YbDNB3.png)
 
 Currently, the project remains on track and I double checked the sensor and Pi’s
 functionality and everything is in working order. Financial status is unchanged
