@@ -33,7 +33,18 @@ functionality and everything is in working order. Financial status is unchanged
 as I was able to acquire a custom case through the school thanks to the
 prototype lab.
 
- 
+### Adjustments:
+
+![](https://i.imgur.com/kRbBYRd.png)
+
+The above image details the above changes I mentioned. The indent in the side
+panel will ensure my PCB will fit, and the enlarged square makes it easier to
+get access to the sensor. Below is an image of the PCB slot, and the finished
+product.
+
+![](https://i.imgur.com/i7XXeRS.png)
+
+![](https://i.imgur.com/WPaGccx.png)
 
 November 13th, 2018
 -------------------
