@@ -10,10 +10,7 @@ November 20th, 2018
 
 Working with CorelDraw x6, we were provided a default file to work with. My
 current edited version is just tall enough for the user to reach down and remove
-the sensor, while still providing protection during transport. The file can be
-found
-[here](https://github.com/rfmaynard/Accel-MagnetoMeter/tree/master/case%20files),
-and a preview for it can be found below.
+the sensor, while still providing protection during transport.
 
 ![](https://i.imgur.com/vujfWZx.png)
 
@@ -40,7 +37,8 @@ prototype lab.
 The above image details the above changes I mentioned. The indent in the side
 panel will ensure my PCB will fit, and the enlarged square makes it easier to
 get access to the sensor. Below is an image of the PCB slot, and the finished
-product.
+product. The final files for the case can be found
+[here](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/case%20files/easeOmeter_CaseFiles_v4.cdr).
 
 ![](https://i.imgur.com/i7XXeRS.png)
 
