@@ -92,7 +92,7 @@ and access your device to test and drive your sensor later on!
 7.  At this point the Pi should boot to desktop. Follow the additional set up
     options on screen.
 
-8.  Power down with \`sudo powerdown\` from the terminal and set the Pi aside as
+8.  Power down with `sudo powerdown` from the terminal and set the Pi aside as
     we will not be using it until sensor testing.
 
  
