@@ -176,7 +176,9 @@ connections.
 1.  Get your Sensor, copper wire, wire stripper, the 8-pin that came with the
     sensor, your PCB, and soldering iron.
 
-2.  Solder your 8-pin that came with your sensor, pictured below, to your
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/8pin.png)
+
+1.  Solder your 8-pin that came with your sensor, pictured above, to your
     LSM303. Put the longer end of the 8-pin into your breadboard and place your
     sensor holes into the upright pins and solder all of the pins. This will
     ensure your sensor doesn’t move too much during soldering and a sturdy
@@ -184,9 +186,14 @@ connections.
     tips.](https://www.youtube.com/watch?v=oqV2xU1fee8) Solder in a well
     ventilated area and use safety glasses.
 
-![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/8pin.png)
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/SensorSolder.png)
 
-1.  aa
+1.  (Optional) At this point you can test your sensor by applying it to the
+    breadboard mockup from the previous section. Turn on your Pi with the sensor
+    connected and run `i2cdetect -y 1` in the terminal. If working, should
+    display the addresses `19` and `1e`.
+
+2.   
 
  
 
