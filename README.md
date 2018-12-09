@@ -174,7 +174,9 @@ your own Fritzing design, please double check that it has the correct
 connections.
 
 1.  Get your Sensor, Copper Wire, wire stripper, the 8-pin that came with the
-    sensor, your PCB,
+    sensor, your PCB, and soldering iron.
+
+2.  //to do
 
  
 
