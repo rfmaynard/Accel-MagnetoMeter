@@ -110,20 +110,20 @@ creation stage.
 
 ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/LSM303zoom.png)
 
-1.  Identify the corresponding pinouts on the Raspberry Pi. [This website is a
+3.  Identify the corresponding pinouts on the Raspberry Pi. [This website is a
     great tool to use if your are unsure.](https://pinout.xyz/#)
 
-2.  Plug in the female part of the GPIO cables into the Raspberry Pi’s 1,3,5,
+4.  Plug in the female part of the GPIO cables into the Raspberry Pi’s 1,3,5,
     and 6 pins, based on the chart from pinout.xyz. These are the pins we are
     going to be using for this project.
 
-3.  Using the 8-pin connector that came with the LSM303 sensor, plug it into the
+5.  Using the 8-pin connector that came with the LSM303 sensor, plug it into the
     breadboard and rest the LSM303 onto it as a placeholder.
 
-4.  Connect the corresponding cables from the Raspberry Pi into the matched
+6.  Connect the corresponding cables from the Raspberry Pi into the matched
     holes for the sensor.
 
-5.  Voila! You have your mock up sensor connection!
+7.  Voila! You have your mock up sensor connection!
 
 It should look something like this:
 
