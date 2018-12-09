@@ -41,9 +41,9 @@ Now let’s get into it!
 ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/budgetcut.png)
 
 Firstly, you will need to acquire certain parts in order to complete this
-project. Shown above is the price break down for each component you will need
-for this project. You may not need all of them listed above but I have provided
-a series
+project. Shown above is the price break down for each component you might need
+for this project. You may not need all of them listed above but it is everything
+I was required to use to get the project to completion.
 
 ### Time
 
