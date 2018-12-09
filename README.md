@@ -108,22 +108,22 @@ creation stage.
 2.  Identify the labels on the sensor. For basic usage, we will be using: 3.3v,
     GND, SDA, and SCL.
 
-![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/LSM303zoom.png)
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/LSM303zoom.png)
 
-1.  Identify the corresponding pinouts on the Raspberry Pi. [This website is a
+3.  Identify the corresponding pinouts on the Raspberry Pi. [This website is a
     great tool to use if your are unsure.](https://pinout.xyz/#)
 
-2.  Plug in the female part of the GPIO cables into the Raspberry Pi’s 1,3,5,
+4.  Plug in the female part of the GPIO cables into the Raspberry Pi’s 1,3,5,
     and 6 pins, based on the chart from pinout.xyz. These are the pins we are
     going to be using for this project.
 
-3.  Using the 8-pin connector that came with the LSM303 sensor, plug it into the
+5.  Using the 8-pin connector that came with the LSM303 sensor, plug it into the
     breadboard and rest the LSM303 onto it as a placeholder.
 
-4.  Connect the corresponding cables from the Raspberry Pi into the matched
+6.  Connect the corresponding cables from the Raspberry Pi into the matched
     holes for the sensor.
 
-5.  Voila! You have your mock up sensor connection!
+7.  Voila! You have your mock up sensor connection!
 
 It should look something like this:
 
@@ -158,13 +158,13 @@ platforms. It is highly customizable and easy to use.
     and open it. From the PCB tab, you can make changes at your leisure and pick
     it apart to see how it was made.
 
-![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBzoom.png)
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBzoom.png)
 
-1.  Export as gerber. `File > Export for Production > Extended Gerber` and
+4.  Export as gerber. `File > Export for Production > Extended Gerber` and
     select an appropriate folder. These files will be required to create and
     etch your PCB.
 
-2.  Zip/Compress the folder containing your gerber files and send them to your
+5.  Zip/Compress the folder containing your gerber files and send them to your
     etcher of choice.
 
 **Step 2: Soldering**
@@ -176,9 +176,9 @@ connections.
 1.  Gather your LSM303 sensor, copper wire, wire stripper, the 8-pin that came
     with the sensor, your PCB, solder, and soldering iron.
 
-![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/8pin.png)
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/8pin.png)
 
-1.  Solder your 8-pin that came with your sensor, pictured above, to your
+2.  Solder your 8-pin that came with your sensor, pictured above, to your
     LSM303. Put the longer end of the 8-pin into your breadboard and place your
     sensor holes into the upright pins and solder all of the pins. This will
     ensure your sensor doesn’t move too much during soldering and a sturdy
@@ -186,14 +186,14 @@ connections.
     tips.](https://www.youtube.com/watch?v=oqV2xU1fee8) Solder in a well
     ventilated area and use safety glasses.
 
-![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/SensorSolder.png)
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/SensorSolder.png)
 
-1.  (Optional) At this point you can test your sensor by applying it to the
+3.  (Optional) At this point you can test your sensor by applying it to the
     breadboard mockup from the previous section. Turn on your Pi with the sensor
     connected and run `i2cdetect -y 1` in the terminal. If working, should
     display the addresses `19` and `1e`.
 
-2.  Solder your vias on your PCB. The easiest method I found, was to strip your
+4.  Solder your vias on your PCB. The easiest method I found, was to strip your
     copper wiring, stick it into the breadboard, and slide one via onto it so
     that it is flat and stable for soldering. Imaged below, and repeat for each
     via.
