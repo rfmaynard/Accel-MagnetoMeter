@@ -36,7 +36,7 @@ which can then be used for real world applications.
 
 ### Bill of Materials/Budget
 
- 
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/budgetcut.png)
 
 ### Time
 
