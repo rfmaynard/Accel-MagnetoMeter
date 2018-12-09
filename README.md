@@ -207,7 +207,9 @@ connections.
 
     ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBrotate.png)
 
-6.  aa
+6.  Repeat the process for the 2x20 header for the Raspberry Pi. It’s not
+    entirely necessary to solder all of the vias, but it ensures the PCB does
+    not move as much.
 
  
 
