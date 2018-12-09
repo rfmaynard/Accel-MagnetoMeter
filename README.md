@@ -150,16 +150,33 @@ platforms. It is highly customizable and easy to use.
 
 2.  (Optional) Download the [AdaFruit Fritzing
     Library.](https://github.com/adafruit/Fritzing-Library) Handy if you want to
-    take the extra step and create a mock connection in Fritzing.
+    take the extra step and create a mock or your own connection/designs in
+    Fritzing.
 
 3.  Download my Fritzing file
     [here](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/pcb%20files/LSM303pi2.fzz)
     and open it. From the PCB tab, you can make changes at your leisure and pick
     it apart to see how it was made.
 
-4.  Export as gerber. File \> Export for Production \> Extended Gerber and
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBzoom.png)
+
+1.  Export as gerber. `File > Export for Production > Extended Gerber` and
     select an appropriate folder. These files will be required to create and
     etch your PCB.
+
+2.  Zip/Compress the folder containing your gerber files and send them to your
+    etcher of choice.
+
+**Step 2: Soldering**
+
+Once you have your PCB we are ready to solder our parts. **Note:** if you made
+your own Fritzing design, please double check that it has the correct
+connections.
+
+1.  Get your Sensor, Copper Wire, wire stripper, the 8-pin that came with the
+    sensor, your PCB,
+
+ 
 
 ### Power Up
 
