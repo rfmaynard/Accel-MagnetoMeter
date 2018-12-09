@@ -101,7 +101,11 @@ Here I will cover basic sensor connectivity to the Raspberry Pi by using a
 breadboard for creating a mock layout/design that will be used in the PCB
 creation stage.
 
-1.   
+1.  Gather the following items: Breadboard, LSM303 Sensor, 4 Female to Male GPIO
+    cables.
+
+2.  Identify the labels on the sensor. For basic usage, we will be using: 3.3v,
+    GND, SDA, and SCL.
 
  
 
