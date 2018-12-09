@@ -198,6 +198,8 @@ connections.
     that it is flat and stable for soldering. Imaged below, and repeat for each
     via.
 
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBvia.png)
+
  
 
 ### Power Up
