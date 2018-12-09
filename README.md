@@ -176,7 +176,17 @@ connections.
 1.  Get your Sensor, copper wire, wire stripper, the 8-pin that came with the
     sensor, your PCB, and soldering iron.
 
-2.  Solder your 8-pin that came with your sensor to your LSM303
+2.  Solder your 8-pin that came with your sensor, pictured below, to your
+    LSM303. Put the longer end of the 8-pin into your breadboard and place your
+    sensor holes into the upright pins and solder all of the pins. This will
+    ensure your sensor doesn’t move too much during soldering and a sturdy
+    connection. **Note:** [Watch this video on soldering
+    tips.](https://www.youtube.com/watch?v=oqV2xU1fee8) Solder in a well
+    ventilated area and use safety glasses.
+
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/8pin.png)
+
+1.  aa
 
  
 
