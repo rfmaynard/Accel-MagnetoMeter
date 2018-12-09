@@ -66,30 +66,34 @@ ensure smooth assembly of your project!
 In this step we will cover basic Raspberry Pi imaging so you are able to login
 and access your device to test and drive your sensor later on!
 
-1) Download the latest [Raspberry Pi
-image](https://www.raspberrypi.org/downloads/). My recommendation is NOOBS. This
-will ensure that starting off, you will have almost everything you need if you
-decide to re-purpose the device later on.
+1.  Download the latest [Raspberry Pi
+    image](https://www.raspberrypi.org/downloads/). My recommendation is NOOBS.
+    This will ensure that starting off, you will have almost everything you need
+    if you decide to re-purpose the device later on.
 
-2) Download [etcher](https://www.balena.io/etcher/). This program will allow you
-to burn the Raspberry Pi image to your SD card.
+2.  Download [etcher](https://www.balena.io/etcher/). This program will allow
+    you to burn the Raspberry Pi image to your SD card.
 
-3) Insert your SD card into the SD card reader and plug it into your computer.
+3.  Insert your SD card into the SD card reader and plug it into your computer.
 
-4) Open etcher and follow the on screen instructions to burn your image. I found
-this program the easiest to use. [Extra documentation if
-needed](https://www.raspberrypi.org/documentation/installation/installing-images/README.md).
+4.  Open etcher and follow the on screen instructions to burn your image. I
+    found this program the easiest to use. [Extra documentation if
+    needed](https://www.raspberrypi.org/documentation/installation/installing-images/README.md).
 
-5) Insert the SD card into your Raspberry Pi along the underside of the device.
-Plug all of the required cables in such as: ethernet, HDMI cable, mouse,
-keyboard, power, and turn the device on.
+5.  Insert the SD card into your Raspberry Pi along the underside of the device.
+    Plug all of the required cables in such as: ethernet, HDMI cable, mouse,
+    keyboard, power, and turn the device on.
 
-6) Upon boot you will see an option for different operating systems. Select
-**Raspbian** and follow the on screen instructions to complete the OS install.
-If you want grab a coffee or snack as the install may take some time.
+6.  Upon boot you will see an option for different operating systems. Select
+    **Raspbian** and follow the on screen instructions to complete the OS
+    install. If you want grab a coffee or snack as the install may take some
+    time.
 
-7) At this point the Pi should boot to desktop. Follow the additional set up
-options on screen.
+7.  At this point the Pi should boot to desktop. Follow the additional set up
+    options on screen.
+
+8.  Power down with \*\*\* sudo powerdown \*\*\* from the terminal and set the
+    Pi aside as we will not be using it until sensor testing.
 
  
 
