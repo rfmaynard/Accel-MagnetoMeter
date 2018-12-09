@@ -1,22 +1,57 @@
 easeOmeter project
 ==================
 
- 
-
-Updates can be found [here](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/INDEX.md).
---------------------------------------------------------------------------------------------------
-
- 
-
 Table of Contents
 -----------------
 
-1.  Hello World
-    
+1.  Introduction
 
-### Hello World
+2.  Bill of Materials/Budget
 
-Hello readers! This will be the space I will be using to update my easeOmeter
-project!
+3.  Time
+
+4.  Assembly
+
+5.  PCB/Soldering
+
+6.  Power Up
+
+7.  Unit Testing
+
+8.  Production Testing
+
+ 
+
+### Introduction
+
+ 
+
+### Bill of Materials/Budget
+
+ 
+
+### Time
+
+ 
+
+### Assembly
+
+ 
+
+### PCB/Soldering
+
+ 
+
+### Power Up
+
+ 
+
+### Unit Testing
+
+ 
+
+### Production Testing
+
+###  
 
  
