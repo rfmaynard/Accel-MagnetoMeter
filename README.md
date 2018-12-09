@@ -20,9 +20,7 @@ Table of Contents
 7.  [Unit Testing](https://github.com/rfmaynard/Accel-MagnetoMeter#unit-testing)
 
 8.  [Production
-    Testing](https://github.com/rfmaynard/Accel-MagnetoMeter#production-testing)
-
- 
+    Testing](/github.com/rfmaynard/Accel-MagnetoMeter#production-testing)
 
 ### Introduction
 
@@ -38,12 +36,15 @@ Now let’s get into it!
 
 ### Bill of Materials/Budget
 
+Budget with part links
+[HERE](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/documentation/BeginnerBudget.xlsx)
+
 ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/budgetcut.png)
 
 Firstly, you will need to acquire certain parts in order to complete this
-project. Shown above is the price break down for each component you might need
-for this project. You may not need all of them listed above but it is everything
-I was required to use to get the project to completion.
+project. Shown above is the price break down for each component used. You may
+not need all of them listed items, but it is everything I was required to use to
+get the project to completion.
 
 ### Time
 
