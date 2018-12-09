@@ -240,11 +240,11 @@ For this portion, you will need an internet connection as you will be required
 to download libraries in order to get readings from the LSM303 sensor.
 
 1.  Make sure your Pi is up to date with the latest packages. Run `sudo apt
-    update` to make sure everything is up to date.
+    update` in the terminal to make sure everything is up to date.
 
 2.  We will be using Python to test the LSM303 sensor, and will need the
-    appropriate tools. Run the following commands to ensure we have everything
-    required to read from the sensor.
+    appropriate tools. Run the following commands in the terminal to ensure we
+    have everything required to read from the sensor.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sudo apt-get install git build-essential python-dev
@@ -254,15 +254,18 @@ cd Adafruit_Python_LSM303
 sudo python setup.py install
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1.  Navigate to the `examples` directory inside the `Adafruit_Python_LSM303`
-    folder.
+1.  Navigate to the `/Adafruit_Python_LSM303/examples` directory.
 
 2.  Test your sensor by running `python simpletest.py`. Your readings should
     look like this:
 
     ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/pi_readings.png)
 
- 
+3.  You can test the readings by moving your device in different directions with
+    different speeds. You will notice the values changing accordingly.
+
+Congratulations! Your sensor successfully works with your etched PCB and
+Raspberry Pi. You can move onto Production Testing.
 
 ### Production Testing
 
