@@ -230,7 +230,31 @@ power on your Raspberry Pi.
 
 2.  Hopefully everything is in working order. If so, you will see this screen:
 
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/piDetect.png)
+
+Congratulations! You can now move onto Unit Testing.
+
 ### Unit Testing
+
+For this portion, you will need an internet connection as you will be required
+to download libraries in order to get readings from the LSM303 sensor.
+
+1.  Make sure your Pi is up to date with the latest packages. Run `sudo apt
+    update` to make sure everything is up to date.
+
+2.  We will be using Python to test the LSM303 sensor, and will need the
+    appropriate tools. Run the following commands to ensure we have everything
+    required to read from the sensor.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sudo apt-get install git build-essential python-dev
+cd ~
+git clone https://github.com/adafruit/Adafruit_Python_LSM303.git
+cd Adafruit_Python_LSM303
+sudo python setup.py install
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.  aaa
 
  
 
