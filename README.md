@@ -205,6 +205,10 @@ connections.
     plug it into the breadboard. Place your PCB onto the pins sticking out and
     solder the connections. Example below.
 
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBrotate.png)
+
+6.  aa
+
  
 
 ### Power Up
