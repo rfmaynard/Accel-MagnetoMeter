@@ -1,5 +1,5 @@
-hitAccel/Magnetometer project build instructions
-================================================
+Accel/Magnetometer project build instructions
+=============================================
 
 Table of Contents
 -----------------
@@ -46,14 +46,15 @@ Budget with part links
 Firstly, you will need to acquire certain parts in order to complete this
 project. Shown above is the price break down for each component used. You may
 not need all of them listed items, but it is everything I was required to use to
-get the project to completion.
+get the project to completion. Feel free to download the spreadsheet version of
+the budget, as part links are provided.
 
 ### Time
 
 ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/scheduleCut.png)
 
 This project ran its course over an entire school semester (4 months, \~15
-weeks), and the amount of time spent on it per week, on average I’d say was
+weeks), and the amount of time spent on it per week, on average, I’d say was
 about 1 to 2 hours. Assuming that those reading this are at the average skill
 level in using a computer and hardware, a user would be able to complete this
 potentially over a weekend. The one time constraint that isn’t always certain is
@@ -221,7 +222,13 @@ connections.
 
 ### Power Up
 
- 
+Once everything is plugged in, and you have double checked your connections,
+power on your Raspberry Pi.
+
+1.  Open up the terminal once you are at the desktop, and run the command
+    `i2cdetect -y 1`.
+
+2.  Hopefully everything is in working order. If so, you will see this screen:
 
 ### Unit Testing
 
