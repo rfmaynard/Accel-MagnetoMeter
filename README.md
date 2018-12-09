@@ -101,11 +101,33 @@ Here I will cover basic sensor connectivity to the Raspberry Pi by using a
 breadboard for creating a mock layout/design that will be used in the PCB
 creation stage.
 
-1.  Gather the following items: Breadboard, LSM303 Sensor, 4 Female to Male GPIO
-    cables.
+1.  Gather the following items: Breadboard, LSM303 Sensor, and 4 Female-to-Male
+    GPIO cables.
 
 2.  Identify the labels on the sensor. For basic usage, we will be using: 3.3v,
     GND, SDA, and SCL.
+
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/LSM303zoom.png)
+
+1.  Identify the corresponding pinouts on the Raspberry Pi. [This website is a
+    great tool to use if your are unsure.](https://pinout.xyz/#)
+
+2.  Plug in the female part of the GPIO cables into the Raspberry Pi’s 1,3,5,
+    and 6 pins. These are the pins we are going to be using for this project.
+
+3.  Using the 8-pin connector that came with the LSM303 sensor, plug it into the
+    breadboard and rest the LSM303 onto it as a placeholder.
+
+4.  Connect the corresponding cables from the Raspberry Pi into the matched
+    holes for the sensor.
+
+5.  Voila! You have your mock up sensor connection!
+
+ 
+
+ 
+
+ 
 
  
 
