@@ -24,6 +24,8 @@ Table of Contents
 
 ### Introduction
 
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/easeFinal.jpg)
+
 Hello and welcome to the (unofficial) build instructions and guide to using the
 LSM303 Accelerometer and Magnetometer. The scope of this little project is to
 learn and integrate a piece of hardware and broadcomm development platform
