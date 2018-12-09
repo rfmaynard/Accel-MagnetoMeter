@@ -123,7 +123,9 @@ creation stage.
 
 5.  Voila! You have your mock up sensor connection!
 
- 
+It should look something like this:
+
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/breadBoardprototype.png)
 
  
 
