@@ -230,7 +230,7 @@ power on your Raspberry Pi.
 
 2.  Hopefully everything is in working order. If so, you will see this screen:
 
-![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/piDetect.png)
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/piDetect.png)
 
 Congratulations! You can now move onto Unit Testing.
 
@@ -254,7 +254,13 @@ cd Adafruit_Python_LSM303
 sudo python setup.py install
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1.  aaa
+1.  Navigate to the `examples` directory inside the `Adafruit_Python_LSM303`
+    folder.
+
+2.  Test your sensor by running `python simpletest.py`. Your readings should
+    look like this:
+
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/pi_readings.png)
 
  
 
