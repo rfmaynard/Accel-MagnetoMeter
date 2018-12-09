@@ -93,13 +93,17 @@ and access your device to test and drive your sensor later on!
     options on screen.
 
 8.  Power down with `sudo powerdown` from the terminal and set the Pi aside as
-    we will not be using it until sensor testing.
+    we will not be using it until sensor testing. Your Pi is ready to go!
+
+**Step 2: Breadboarding and prototyping**
+
+Here I will cover basic sensor connectivity to the Raspberry Pi by using a
+breadboard for creating a mock layout/design that will be used in the PCB
+creation stage.
+
+1.   
 
  
-
-, and after that point your Pi is ready to go!
-
-Step 2: Breadboarding and prototyping
 
 ### PCB/Soldering
 
