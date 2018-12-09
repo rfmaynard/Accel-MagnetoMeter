@@ -48,7 +48,13 @@ get the project to completion.
 
 ### Time
 
- 
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/scheduleCut.png)
+
+This project ran its course over an entire school semester (4 months, \~15
+weeks), and the amount of time spent on it per week, on average I’d say was
+about 1 to 2 hours. Assuming that those reading this are at the average skill
+level in using a computer and hardware, a user would be able to complete this
+potentially over a weekend.
 
 ### Assembly
 
