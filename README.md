@@ -211,7 +211,11 @@ connections.
     entirely necessary to solder all of the vias, but it ensures the PCB does
     not move as much.
 
- 
+7.  Your soldering should be complete. Plug everything in accordingly (i.e line
+    up sensor to the correct vias and Pi header is soldered on 1,3,5 and 6), and
+    you should be ready for the next step! Example below.
+
+    ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBdone.png)
 
 ### Power Up
 
