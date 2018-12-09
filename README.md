@@ -1,5 +1,5 @@
-easeOmeter project
-==================
+Accel/Magnetometer project build instructions
+=============================================
 
 Table of Contents
 -----------------
@@ -26,7 +26,13 @@ Table of Contents
 
 ### Introduction
 
- 
+Hello and welcome to the (unofficial) build instructions and guide to using the
+LSM303 Accelerometer and Magnetometer. The scope of this little project is to
+learn and integrate a piece of hardware and broadcomm development platform
+together. In our case, we will be using a Raspberry Pi B as our platform. All of
+which can then be used for real world applications.
+
+//system diagram to go here.
 
 ### Bill of Materials/Budget
 
