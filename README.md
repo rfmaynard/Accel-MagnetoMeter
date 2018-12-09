@@ -74,20 +74,19 @@ and access your device to test and drive your sensor later on!
 2.  Download [etcher](https://www.balena.io/etcher/). This program will allow
     you to burn the Raspberry Pi image to your SD card.
 
-3.  Insert your SD card into the SD card reader, logo facing out, and plug it
-    into your computer.
+3.  Insert your SD card into the SD card reader and plug it into your computer.
 
 4.  Open etcher and follow the on screen instructions to burn your image. I
     found this program the easiest to use. [Extra documentation if
     needed](https://www.raspberrypi.org/documentation/installation/installing-images/README.md).
 
-5.  Insert the SD card into your Raspberry Pi along the underside of the device.
-    Plug all of the required cables in such as: ethernet, HDMI cable, mouse,
-    keyboard, power, and turn the device on.
+5.  Insert the SD card into your Raspberry Pi along the underside of the device,
+    logo facing out. Plug all of the required cables in such as: Ethernet, HDMI
+    cable, mouse, keyboard, power, and turn the device on.
 
 6.  Upon boot you will see an option for different operating systems. Select
     **Raspbian** and follow the on screen instructions to complete the OS
-    install. If you want grab a coffee or snack as the install may take some
+    install. If you want, grab a coffee or snack as the install may take some
     time.
 
 7.  At this point the Pi should boot to desktop. Follow the additional set up
@@ -196,11 +195,15 @@ connections.
 4.  Solder your vias on your PCB. The easiest method I found, was to strip your
     copper wiring, stick it into the breadboard, and slide one via onto it so
     that it is flat and stable for soldering. Imaged below, and repeat for each
-    via.
+    via. Once each via is soldered, snip the excess wire with your cutters.
 
     ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBvia.png)
 
-5.  aaa
+5.  Solder your stackable headers. Using the breadboard again, take some extra
+    copper wire from the snipped vias, or strip more, and place it into the
+    female part of the header. The more, the sturdier. Flip the header over and
+    plug it into the breadboard. Place your PCB onto the pins sticking out and
+    solder the connections. Example below.
 
  
 
