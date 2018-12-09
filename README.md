@@ -1,5 +1,5 @@
-Accel/Magnetometer project build instructions
-=============================================
+hitAccel/Magnetometer project build instructions
+================================================
 
 Table of Contents
 -----------------
@@ -173,10 +173,10 @@ Once you have your PCB we are ready to solder our parts. **Note:** if you made
 your own Fritzing design, please double check that it has the correct
 connections.
 
-1.  Get your Sensor, Copper Wire, wire stripper, the 8-pin that came with the
+1.  Get your Sensor, copper wire, wire stripper, the 8-pin that came with the
     sensor, your PCB, and soldering iron.
 
-2.  //to do
+2.  Solder your 8-pin that came with your sensor to your LSM303
 
  
 
