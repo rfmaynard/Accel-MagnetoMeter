@@ -74,7 +74,8 @@ and access your device to test and drive your sensor later on!
 2.  Download [etcher](https://www.balena.io/etcher/). This program will allow
     you to burn the Raspberry Pi image to your SD card.
 
-3.  Insert your SD card into the SD card reader and plug it into your computer.
+3.  Insert your SD card into the SD card reader, logo facing out, and plug it
+    into your computer.
 
 4.  Open etcher and follow the on screen instructions to burn your image. I
     found this program the easiest to use. [Extra documentation if
@@ -92,8 +93,8 @@ and access your device to test and drive your sensor later on!
 7.  At this point the Pi should boot to desktop. Follow the additional set up
     options on screen.
 
-8.  Power down with `sudo powerdown` from the terminal and set the Pi aside as
-    we will not be using it until sensor testing. Your Pi is ready to go!
+8.  Power down with `sudo powerdown` from the terminal by pressing `ctrl+alt+t`
+    and set the Pi aside. We will not be using it until sensor testing.
 
 **Step 2: Breadboarding and prototyping**
 
@@ -113,7 +114,8 @@ creation stage.
     great tool to use if your are unsure.](https://pinout.xyz/#)
 
 2.  Plug in the female part of the GPIO cables into the Raspberry Pi’s 1,3,5,
-    and 6 pins. These are the pins we are going to be using for this project.
+    and 6 pins, based on the chart from pinout.xyz. These are the pins we are
+    going to be using for this project.
 
 3.  Using the 8-pin connector that came with the LSM303 sensor, plug it into the
     breadboard and rest the LSM303 onto it as a placeholder.
@@ -127,15 +129,37 @@ It should look something like this:
 
 ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/breadBoardprototype.png)
 
- 
-
- 
-
- 
+Now we can proceed to the PCB and soldering!
 
 ### PCB/Soldering
 
- 
+This is the part of the project that needs to be proceeded with care and
+caution. I have made mistakes with my PCB design and case, however, I am
+fortunate enough to have the resources at Humber to create 2nd or 3rd revisions
+within a day or two. For those without access to such resources, it is advised
+to double check your designs before purchasing etching and cutting services.
+
+**Step 1: Fritzing**
+
+[Fritzing](http://fritzing.org/download/) is an open-source application that
+easily allows the user to create PCB schematics for different development
+platforms. It is highly customizable and easy to use.
+
+1.  [Download](http://fritzing.org/download/) and extract Fritzing. Installation
+    notes are on the linked page for various operating systems.
+
+2.  (Optional) Download the [AdaFruit Fritzing
+    Library.](https://github.com/adafruit/Fritzing-Library) Handy if you want to
+    take the extra step and create a mock connection in Fritzing.
+
+3.  Download my Fritzing file
+    [here](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/pcb%20files/LSM303pi2.fzz)
+    and open it. From the PCB tab, you can make changes at your leisure and pick
+    it apart to see how it was made.
+
+4.  Export as gerber. File \> Export for Production \> Extended Gerber and
+    select an appropriate folder. These files will be required to create and
+    etch your PCB.
 
 ### Power Up
 
