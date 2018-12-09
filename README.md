@@ -183,8 +183,8 @@ connections.
     sensor holes into the upright pins and solder all of the pins. This will
     ensure your sensor doesn’t move too much during soldering and a sturdy
     connection. **Note:** [Watch this video on soldering
-    tips.](https://www.youtube.com/watch?v=oqV2xU1fee8) Solder in a well
-    ventilated area and use safety glasses.
+    tips.](https://www.youtube.com/watch?v=oqV2xU1fee8) **Solder in a well
+    ventilated area and use safety glasses.**
 
     ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/SensorSolder.png)
 
@@ -199,6 +199,8 @@ connections.
     via.
 
     ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/PCBvia.png)
+
+5.  aaa
 
  
 
