@@ -30,9 +30,13 @@ Hello and welcome to the (unofficial) build instructions and guide to using the
 LSM303 Accelerometer and Magnetometer. The scope of this little project is to
 learn and integrate a piece of hardware and broadcomm development platform
 together. In our case, we will be using a Raspberry Pi B as our platform. All of
-which can then be used for real world applications.
+which can then be used for real world applications. A potential case for this
+project, imaged below, which my group and I will be attempting in the next
+semester, will be a simple pedometer.
 
-//system diagram to go here.
+![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/SystemDiagram.png)
+
+ 
 
 Now let’s get into it!
 
@@ -254,14 +258,14 @@ cd Adafruit_Python_LSM303
 sudo python setup.py install
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-3.  Navigate to the `/Adafruit_Python_LSM303/examples` directory.
+1.  Navigate to the `/Adafruit_Python_LSM303/examples` directory.
 
-4.  Test your sensor by running `python simpletest.py`. Your readings should
+2.  Test your sensor by running `python simpletest.py`. Your readings should
     look like this:
 
     ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/pi_readings.png)
 
-5.  You can test the readings by moving your device in different directions with
+3.  You can test the readings by moving your device in different directions with
     different speeds. You will notice the values changing accordingly.
 
 Congratulations! Your sensor successfully works with your etched PCB and
