@@ -36,8 +36,6 @@ semester, will be a simple pedometer.
 
 ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/SystemDiagram.png)
 
- 
-
 Now let’s get into it!
 
 ### Bill of Materials/Budget
