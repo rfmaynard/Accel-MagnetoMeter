@@ -264,14 +264,14 @@ cd Adafruit_Python_LSM303
 sudo python setup.py install
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1.  Navigate to the `/Adafruit_Python_LSM303/examples` directory.
+3.  Navigate to the `/Adafruit_Python_LSM303/examples` directory.
 
-2.  Test your sensor by running `python simpletest.py`. Your readings should
+4.  Test your sensor by running `python simpletest.py`. Your readings should
     look like this:
 
     ![](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/images/pi_readings.png)
 
-3.  You can test the readings by moving your device in different directions with
+5.  You can test the readings by moving your device in different directions with
     different speeds. You will notice the values changing accordingly.
 
 Congratulations! Your sensor successfully works with your etched PCB and
