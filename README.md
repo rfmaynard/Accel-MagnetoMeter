@@ -279,16 +279,17 @@ Raspberry Pi. You can move onto Production Testing.
 
 ### Production Testing
 
-[I have provided a case file
-](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/case%20files/easeOmeter_CaseFiles_v4.cdr)for
-those that wish to continue further for potential real world use. This case will
-ensure your sensor, Pi, and PCB are protected all while providing enough room
-for you to remove the sensor at your leisure. For portability, there is definite
-room that can be improved upon if you wish to make the device smaller and more
-portable. For my purposes, this project was meant to be a robust and simple type
-pedometer prototype for the aging population. I have taken it to and from school
-inside of my backpack for a solid hour at a time and everything still works with
-no issues. This concludes the end of the build instructions, I hope you had fun
-with this project as much as I did!
+[I have provided a case
+file](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/case%20files/easeOmeter_CaseFiles_v4.cdr)
+(Created with CorelDraw x6) for those that wish to continue further for
+potential real world use. This case will ensure your sensor, Pi, and PCB are
+protected all while providing enough room for you to remove the sensor at your
+leisure. For portability, there is definite room that can be improved upon if
+you wish to make the device smaller and more portable. For my purposes, this
+project was meant to be a robust and simple type pedometer prototype for the
+aging population. I have taken it to and from school inside of my backpack for a
+solid hour at a time and everything still works with no issues. This concludes
+the end of the build instructions, I hope you had fun with this project as much
+as I did!
 
  
