@@ -97,8 +97,16 @@ and access your device to test and drive your sensor later on!
 7.  At this point the Pi should boot to desktop. Follow the additional set up
     options on screen.
 
-8.  Power down with `sudo powerdown` from the terminal by pressing `ctrl+alt+t`
-    and set the Pi aside. We will not be using it until sensor testing.
+8.  Enable I2C. This is the method we will be using to communicated with our
+    Raspberry Pi. Type `sudo apt-get install -y python-smbus i2c-tools` into the
+    terminal by pressing `ctrl+alt+t`.
+
+9.  Type `sudo raspi-config` into the terminal.
+
+10. Go to interfacing options \> and enable I2C.
+
+11. Power down with `sudo powerdown` from the terminal by pressing and set the
+    Pi aside. We will not be using it until sensor testing.
 
 **Step 2: Breadboarding and prototyping**
 
@@ -271,6 +279,10 @@ Raspberry Pi. You can move onto Production Testing.
 
 ### Production Testing
 
-###  
+[I have provided a case file
+](https://github.com/rfmaynard/Accel-MagnetoMeter/blob/master/case%20files/easeOmeter_CaseFiles_v4.cdr)for
+those that wish to continue further for potential real world use. This case will
+ensure your sensor, Pi, and PCB are protected all while providing enough room
+for you to remove the sensor at your leisure.
 
  
